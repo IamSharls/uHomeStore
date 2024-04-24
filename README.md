@@ -5,7 +5,7 @@ The purpose of this project is to simulate a website where people can make an ac
 
 Stack used: HTML, CSS, Javascript, Bootstrap, PHP, MySQL
 
-Visit uHomeStore
+<h3><a target='_blank' style = "text-decoration:none" href = "https://uhomestore.000webhostapp.com/">Visit uHomeStore</a></h3>
 
 <p align="center">
   <img src="https://github.com/IamSharls/uHomeStore/blob/main/capturas/1.png">
